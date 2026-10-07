@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1791318327 source:c:\users\hp\desktop\ilisi 2\mr.bouziri\rechererfichier\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<chrono>
+
+1791373336 source:c:\users\hp\desktop\ilisi 2\mr.bouziri\rechercher un mot\rechererfichier\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<chrono>
+
